@@ -160,7 +160,7 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowIcon(
             QtGui.QIcon(
-                "C:\\Users\\Teti\\Desktop\\Programação\\Projects\\Codes\\Projects\\Icons\\translatoricon.png"
+                "directory/icon"
             )
         )
         MainWindow.setWindowTitle(_translate("MainWindow", "Tradutor"))
